@@ -1,3 +1,35 @@
+## 🎥 MediBridge AI — Hackathon Demonstration Video
+
+We are presenting **MediBridge AI — Your Health, Connected**, a digital healthcare record management platform designed to simplify the organization, digitization, and accessibility of patient medical information.
+
+### Watch Our Prototype Demonstration
+
+**[▶ Watch MediBridge AI Hackathon Demo Video](https://drive.google.com/file/d/1xrVsRWE5BNvn_CdNtjDGZ3vyycpRlDRH/view?usp=sharing)**
+
+### Features Demonstrated
+
+- Email authentication and demo access
+- Patient dashboard
+- Medical document upload
+- OCR-based prescription and report text extraction
+- Health timeline
+- Medication and allergy information
+- Doctor access and sharing
+- Emergency information
+
+### Technologies Used
+
+| Component | Technology |
+|---|---|
+| Frontend | React, TypeScript, Vite |
+| Backend | Python, FastAPI |
+| OCR | Tesseract OCR |
+| Database and authentication integration | Supabase |
+| Version Control | Git, GitHub |
+| Containerization | Docker |
+| Cloud Deployment | Render |
+
+**Demo Note:** The demonstration uses fictional patient information. OCR results require user review, and the application does not provide verified medical diagnoses.
 # MediBridge AI
 
 **One Patient. One Medical Timeline. Complete Control.**
